@@ -1,5 +1,5 @@
 # Credic-Card-Fraud-Prediction
-Check out the dataset here! 👉 [Credit Card Fraud Prediction Dataset]([https://www.kaggle.com/datasets/username/dataset-name](https://www.kaggle.com/search?q=credit-card-fraud-prediction+datasetFileTypes%3Acsv))
+Check out the dataset here! 👉 [Credit Card Fraud Prediction Dataset](https://www.kaggle.com/search?q=credit-card-fraud-prediction+datasetFileTypes%3Acsv)
 
 # 💳 Credit Card Fraud Prediction Dataset
 📄 About This Dataset
